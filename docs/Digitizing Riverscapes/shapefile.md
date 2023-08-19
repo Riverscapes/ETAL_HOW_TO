@@ -4,6 +4,7 @@ weight: 1
 ---
 
 # Geomorphic Mapping
+### This page lays out some of the features that we typically map as part of our monitoring protocol. For each feature there is a brief description, some lines of evidence that can be used to hep accuratley map them, as well as a list of attributes that will need to be created for each (which is described in a bit more detail in [this video](https://youtu.be/DJz3X_TvfFw)).
 ***
 
 ### Valley Bottom
